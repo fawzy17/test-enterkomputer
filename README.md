@@ -59,7 +59,7 @@ make run
 
 ## Installation without make & migrate
 8. buat database dengan nama "test-enterkomputer"
-9. import table dari file "data.sql" secara manual
+9. import table dari file "data.sql" secara manual, sudah include data products dan orders
 10. jalankan perintah
 ```bash
 go run cmd/main.go
